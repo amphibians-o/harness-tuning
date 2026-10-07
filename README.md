@@ -1,4 +1,4 @@
-# harness-tuning（公開版）
+# harness-tuning
 
 エージェントの**指示面**（Skills・Memory・SOUL・ツール定義）を棚卸しして軽くするための考え方。
 「肯定的な指示への書き換え（推論の高速化）」と「Skills と memory の構造化（トークン量の削減）」の2つを通してハーネスを最適化する。
@@ -20,7 +20,7 @@
 - `harness-tuning/references/variable-vs-constant.md` — 維持する価値と変える価値、検査
 - `harness-tuning/references/antonym-and-candidates.md` — 対義語の作り方（上位概念）、対案の7型、検査
 - `harness-tuning/references/structure-and-lightening.md` — Skills と Memory の構造、軽量化の段取り
-- 本体 §2 の「伸びる側」 — 会話とツール結果の圧縮・刈り込みの規則
+- `harness-tuning/SKILL.md` §2 の「伸びる側」 — 会話とツール結果の圧縮・刈り込みの規則
 
 ## 何を扱うか
 
