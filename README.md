@@ -21,6 +21,13 @@
 - `harness-tuning/references/antonym-and-candidates.md` — 対義語の作り方（上位概念）、対案の7型、検査
 - `harness-tuning/references/structure-and-lightening.md` — Skills と Memory の構造、軽量化の段取り
 
+## 何を扱うか
+
+- **Skills / memory / SOUL / ツール定義** の棚卸と構造化（毎回載る分＝固定費）
+- **禁止文の肯定形への書き換え**（推論の高速化を期待）
+- **会話とツール結果の圧縮・刈り込みの設定**（伸びる分＝可変費）
+- 上流（本体）への返し方と、公開前に残す境界
+
 ## ライセンスと免責
 
 MIT License（`LICENSE` を参照）。**このソフトウェアは「現状のまま」提供され、いかなる保証もありません**
